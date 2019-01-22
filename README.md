@@ -1,0 +1,1 @@
+# caseg-inventario-tst
